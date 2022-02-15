@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Arjun is Goated at everything</Text>
+      <Text>Mr patel should have won vice-presidency</Text>
       <StatusBar style="auto" />
     </View>
   );
